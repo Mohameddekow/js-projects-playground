@@ -1,1 +1,1 @@
-<img src="/screenshots/joke_ready.png" />
+<img src="./screenshots/joke_ready.png" />
