@@ -1,1 +1,1 @@
-<img src="/screenshots/Screenshot from 2023-02-15 00-06-08.png" />
+<img src="/screenshots/joke_ready.png" />
