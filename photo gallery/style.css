@@ -1,0 +1,73 @@
+.body{
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(to bottom lightgreen lightblue);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0 , 0, 0.3);
+    width: 90%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h2{
+    font-weight: 400;
+}
+
+.input{
+    padding: 20px 10px;
+    font-size: 18px;
+    background-color: wheat;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.errorMessage{
+    color: red;
+    font-weight: 600;
+    margin: 10px;
+    display: none;
+}
+
+.btn{
+    text-transform: uppercase;
+    padding: 10px;
+    width: 250px;
+    min-height: 45px;
+    margin: 20px 0;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.btn:hover{
+    color: aliceblue;
+    background-color: green;
+    cursor: pointer;
+    transition: background-color 350ms ease-in-out;
+}
+.gallery img{
+    width: 370px;
+    height: 250px;
+    object-fit: cover;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px 1px;
+} 
+.gallery {
+    display: none;
+}
