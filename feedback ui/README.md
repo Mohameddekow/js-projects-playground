@@ -1,10 +1,11 @@
-* This is a joke generator javaScript project
-* The joke is fetched from an api randomly
+* This is a feedback UI javaScript project
+* it just show how feedback UI looks like and how it works
 
 
 <p>
-<img src="https://user-images.githubusercontent.com/61431856/220197367-41160a2b-eb59-4807-a43a-df7c47335b44.png" width="500"/> 
+<img src="https://user-images.githubusercontent.com/61431856/221297961-08a82bfb-8ae2-43c9-93e9-e904c5b08ff7.png" width="500"/> 
 
-<img src="https://user-images.githubusercontent.com/61431856/220197374-691fa124-68cd-47cb-bd8d-fa7c99e3dbd0.png" width="500"/> 
+<img src="https://user-images.githubusercontent.com/61431856/221297955-a4d65391-f56c-432d-8ee1-fb55365543cb.png" width="500"/> 
+
 
 </p>
