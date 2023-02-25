@@ -5,8 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Real time charcter counter</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <div class="container">
+        <h2>Real-time Character Counter</h2>
+
+        <textarea placeholder="Please write your text here..." maxlength="50" name="" id="textarea" cols="35" rows="6" class="textarea"></textarea>
+       
+
+        <div class="counter-container">
+            <p>
+                Total Character: <span class="total-counter" id="total-counter">30</span>
+            </p>
+
+            <p>
+                Remaming: <span class="remaining-counter" id="remaining-counter">30</span>
+            </p>
+        </div>
+    </div>
 </body>
 </html>
