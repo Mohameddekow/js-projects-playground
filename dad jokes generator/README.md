@@ -1,5 +1,5 @@
 * This is a joke generator javaScript project
-* The joke is fetched from an api randomly
+* With the use ks the jokes are fetched from an api randomly
 
 
 <p>
